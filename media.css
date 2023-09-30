@@ -1,0 +1,208 @@
+@media only screen and (max-width: 1820px) {
+
+    .container {
+        max-width: 1680px;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .nav-right-content {
+        margin-right: 100px;
+    }
+
+    .hamburger-menu {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+
+    .container {
+        max-width: 1180px;
+    }
+
+    .button_container {
+        top: 5.2%;
+    }
+
+    .featured-title h3 {
+        font-size: 45px;
+    }
+
+    .featured-title h4 {
+        font-size: 20px;
+    }
+
+    .card-content h3 {
+        font-size: 22px;
+    }
+
+    .card-content h4 {
+        font-size: 15px;
+    }
+
+    .card-content p {
+        font-size: 15px;
+    }
+
+    .product-card-content h3 {
+        font-size: 20px;
+    }
+
+    .product-card-content h4 {
+        font-size: 16px;
+    }
+
+    .product-card-content p {
+        font-size: 14px;
+    }
+
+    .rating-price i {
+        font-size: 16px;
+    }
+
+    .rating-price h5 {
+        font-size: 20px;
+    }
+
+    .rating-price h5 span {
+        font-size: 14px;
+    }
+
+    .popular-title h3 {
+        font-size: 45px;
+    }
+
+    .product-card-image {
+        height: 278px;
+    }
+
+    .advantage-section {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .container {
+        max-width: 991px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .container {
+        max-width: 850px;
+    }
+
+    .button_container {
+        top: 4.3%;
+    }
+
+    .featured-title h3 {
+        font-size: 40px;
+    }
+
+    .featured-title h4 {
+        font-size: 15px;
+    }
+
+    .card-item {
+        width: 50%;
+    }
+
+    .nav-right-content {
+        display: none;
+    }
+
+    .hero-subtitle {
+        width: 80%;
+    }
+
+    .background-vector {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        max-width: 700px;
+    }
+
+    .hero-title {
+        font-size: 72px;
+    }
+
+    .hero-subtitle {
+        width: 80%;
+    }
+
+    .popular-title h3 {
+        font-size: 40px;
+    }
+
+    .advantage-section {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 576px) {
+
+    .container {
+        max-width: 520px;
+    }
+
+    .button_container {
+        top: 2.9%;
+    }
+
+    .featured-title h3 {
+        font-size: 30px;
+    }
+
+    .featured-title h4 {
+        font-size: 12px;
+    }
+
+    .card-item {
+        width: 100%;
+    }
+
+    .hero-title {
+        font-size: 50px;
+    }
+
+    .hero-subtitle {
+        width: 80%;
+    }
+
+    .popular-title h3 {
+        font-size: 25px;
+    }
+
+    .advantage-section {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 475px) {
+
+    .container {
+        max-width: 400px;
+    }
+
+    .header-two {
+        display: none;
+    }
+
+    .button_container {
+        top: 2.3%;
+    }
+}
